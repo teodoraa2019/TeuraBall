@@ -46,6 +46,7 @@ public class PlayerController : MonoBehaviour
         if (count >= 12)
         {
             winText.text = "Pobjeda!";
+			Application.LoadLevel("Win");
         }
     }
 }
