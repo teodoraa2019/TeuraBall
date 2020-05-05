@@ -3,7 +3,7 @@ using System.Collections;
 
 public class CameraController : MonoBehaviour
 {
-
+	//položaj kamere u odnosu na lopticu
     public GameObject player;
 
     private Vector3 offset;

@@ -22,6 +22,7 @@ public class PlayerController : MonoBehaviour
 
     void FixedUpdate()
     {
+		//pomicanje loptice
         float moveHorizontal = Input.GetAxis("Horizontal");
         float moveVertical = Input.GetAxis("Vertical");
 
@@ -32,8 +33,10 @@ public class PlayerController : MonoBehaviour
 
     void OnTriggerEnter(Collider other)
     {
+		//provjera ako je object dijamant
         if (other.gameObject.CompareTag("Pick Up"))
         {
+			//uvećanje za jedan
             other.gameObject.SetActive(false);
             count = count + 1;
             SetCountText();
@@ -42,9 +45,11 @@ public class PlayerController : MonoBehaviour
 
     void SetCountText()
     {
+		//brojenje sakupljenih dijamanata
         countText.text = "Rezultat: " + count.ToString();
         if (count >= 12)
         {
+			//bacanje na novu scenu ukoliko su sakupljeni svi dijamanti
             winText.text = "Pobjeda!";
 			Application.LoadLevel("Win");
         }
