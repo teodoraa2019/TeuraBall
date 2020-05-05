@@ -17,7 +17,7 @@ Platform assembly: C:\Users\vodop\Desktop\git - projekti\TeuraBall\TeuraBall\Teu
 Loading C:\Users\vodop\Desktop\git - projekti\TeuraBall\TeuraBall\TeuraBall_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: C:\Users\vodop\Desktop\git - projekti\TeuraBall\TeuraBall\TeuraBall_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
 Loading C:\Users\vodop\Desktop\git - projekti\TeuraBall\TeuraBall\TeuraBall_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-- Completed reload, in  0.015 seconds
+- Completed reload, in  0.016 seconds
 Platform assembly: C:\Users\vodop\Desktop\git - projekti\TeuraBall\TeuraBall\TeuraBall_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\vodop\Desktop\git - projekti\TeuraBall\TeuraBall\TeuraBall_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 120Hz; virtual: 1920x1080 at 0,0
@@ -25,19 +25,65 @@ desktop: 1920x1080 120Hz; virtual: 1920x1080 at 0,0
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 2.181700 ms
+UnloadTime: 1.942300 ms
+Učitavanje razine:Level1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.948100 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 438.
+Total: 0.185400 ms (FindLiveObjects: 0.022500 ms CreateObjectMapping: 0.012000 ms MarkObjects: 0.144800 ms  DeleteObjects: 0.005200 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 1c30 -> priority: 1 
+  Thread -> id: 2a00 -> priority: 1 
+  Thread -> id: 2b18 -> priority: 1 
+  Thread -> id: 11e4 -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.486700 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 267.
+Total: 0.293300 ms (FindLiveObjects: 0.018900 ms CreateObjectMapping: 0.016400 ms MarkObjects: 0.171400 ms  DeleteObjects: 0.085900 ms)
+
+Učitavanje razine:Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.308400 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 281.
+Total: 0.207500 ms (FindLiveObjects: 0.017800 ms CreateObjectMapping: 0.013900 ms MarkObjects: 0.170400 ms  DeleteObjects: 0.004800 ms)
+
 Učitavanje razine:Level2
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 3.882400 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.633700 ms
 
-Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 446.
-Total: 0.180500 ms (FindLiveObjects: 0.023400 ms CreateObjectMapping: 0.010700 ms MarkObjects: 0.140800 ms  DeleteObjects: 0.005100 ms)
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 447.
+Total: 0.279500 ms (FindLiveObjects: 0.033900 ms CreateObjectMapping: 0.023500 ms MarkObjects: 0.211400 ms  DeleteObjects: 0.009900 ms)
 
-Setting up 4 worker threads for Enlighten.
-  Thread -> id: 3f40 -> priority: 1 
-  Thread -> id: 27c4 -> priority: 1 
-  Thread -> id: a18 -> priority: 1 
-  Thread -> id: 1888 -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.323100 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 267.
+Total: 0.212500 ms (FindLiveObjects: 0.015200 ms CreateObjectMapping: 0.010200 ms MarkObjects: 0.137100 ms  DeleteObjects: 0.049400 ms)
+
+Učitavanje razine:Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.363800 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 281.
+Total: 0.202300 ms (FindLiveObjects: 0.019100 ms CreateObjectMapping: 0.013700 ms MarkObjects: 0.164400 ms  DeleteObjects: 0.004500 ms)
+
+Gašenje!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
