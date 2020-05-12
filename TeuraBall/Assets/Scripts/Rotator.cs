@@ -3,7 +3,6 @@ using System.Collections;
 
 public class Rotator : MonoBehaviour
 {
-
     void Update()
     {
 		//rotacija dijamanata
