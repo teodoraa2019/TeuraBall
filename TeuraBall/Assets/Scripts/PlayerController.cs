@@ -46,7 +46,7 @@ public class PlayerController : MonoBehaviour
     void SetCountText()
     {
 		//brojenje sakupljenih dijamanata
-        countText.text = "Rezultat: " + count.ToString();
+        countText.text = "Rezultat: " + count.ToString() + " / 12";
         if (count >= 12)
         {
 			//bacanje na novu scenu ukoliko su sakupljeni svi dijamanti
