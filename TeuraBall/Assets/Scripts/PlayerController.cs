@@ -12,6 +12,8 @@ public class PlayerController : MonoBehaviour
     private Rigidbody rb;
     private int count;
 
+	public AudioClip pickup;
+
     void Start()
     {
         rb = GetComponent<Rigidbody>();
@@ -41,6 +43,7 @@ public class PlayerController : MonoBehaviour
             count = count + 1;
             SetCountText();
         }
+		AudioSource.PlayClipAtPoint (pickup, transform.position);
     }
 
     void SetCountText()
